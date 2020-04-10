@@ -1,0 +1,46 @@
+.logo-lw{
+  font-size: 34px;
+  font-family: "Lato";
+  color: rgb(54, 119, 253);
+  line-height: 0.702;
+  margin: 50px 0 0 0;
+}
+
+.item-element{
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgb(244, 244, 244);
+  border-radius: 10px;
+  background-color: rgb(244, 244, 244);
+  width: 263px;
+  height: 173px;
+}
+
+.container{
+   margin: 0 150px 0 150px;
+}
+
+.img-work-1{
+    width:70%;
+    margin-top: 15px;
+}
+
+.img-work-2{
+    width:43%;
+    margin-top: 15px;
+}
+
+.img-work-3{
+    width:70%;
+    margin-top: 15px;
+}
+
+.img-work-5{
+    width:43%;
+    margin-top: 25px;
+}
+
+.img-work-6{
+    width:70%;
+    margin-top: 25px;
+}
