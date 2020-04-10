@@ -1,0 +1,34 @@
+* {
+    font-family: 'Lato', sans-serif;
+}
+
+.bottom-footer {
+    background-color: #f1f8ff;
+    &__title {
+        color: rgb(54, 119, 253);
+        font-size: 50px;
+        font-weight: 300;
+        padding: 5% 0;
+    }
+    &__logo-container {
+        padding-bottom: 5%;
+    }
+    &__banner {
+        background-color: #469dff;
+    }
+    &__text {
+        font-size: 50px;
+        color: white;
+        padding: 5% 20px;
+        &--light {
+            font-weight: 300;
+        }
+        &--bold {
+            font-weight: 700;
+        }
+    }
+    &__button {
+        background-color: white;
+        color: #469dff;
+    }
+}
